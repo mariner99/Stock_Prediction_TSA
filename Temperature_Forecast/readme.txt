@@ -1,3 +1,0 @@
-Temperature Forecasting in ARIMA 
-
-
